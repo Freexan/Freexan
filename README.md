@@ -20,3 +20,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-020F0D?style=for-the-badge&logo=Linkedin&logoColor=0077B7)](https://www.linkedin.com/in/oleksandr-chykalo-7326ba313/)
 
+### My stats 
+
+<div align="center">
+<img alt="Oleksandr  GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Freexan&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&&langs_count=8"/>
+</div>
