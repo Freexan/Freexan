@@ -19,11 +19,17 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-020F0D?style=for-the-badge&logo=telegram&logoColor=26A2E0)](https://t.me/oleksandrchykalo)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-020F0D?style=for-the-badge&logo=Linkedin&logoColor=0077B7)](https://www.linkedin.com/in/oleksandr-chykalo-7326ba313/)
-
 ### My stats 
 
-<div align="center">
-<img alt="Oleksandr  GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Freexan&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&&langs_count=8"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img alt="Oleksandr GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Freexan&show_icons=true&theme=radical"/>
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&theme=radical&langs_count=8"/>
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Freexan&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Freexan&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </a>
+</div>
+
+
