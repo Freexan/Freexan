@@ -26,3 +26,4 @@
 <img alt="Oleksandr  GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Freexan&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&&langs_count=8"/>
 </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Freexan&theme=radical&hide_border=true)](https://git.io/streak-stats)
