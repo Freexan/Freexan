@@ -22,8 +22,8 @@
 ### My stats 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <img alt="Oleksandr GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Freexan&show_icons=true&theme=radical"/>
-    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&theme=radical&langs_count=8"/>
+    <img alt="Oleksandr GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Freexan&show_icons=true&theme=radical&cache_seconds=1800"/>
+    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&theme=radical&langs_count=8&cache_seconds=1800"/>
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
