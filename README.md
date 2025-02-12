@@ -76,42 +76,17 @@ I'm Chykalo Oleksandr. As a backend developer, I'm always eager to create someth
 
 ## 👨‍💻 Most Used Languages
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&theme=dark" />
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&theme=light" />
-  <img alt="Most Used Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&theme=light" />
-</picture>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&theme=graywhite)](https://github.com/Freexan)
+
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats.vercel.app/api?username=Freexan&show_icons=true&theme=dark" />
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-stats.vercel.app/api?username=Freexan&show_icons=true&theme=light" />
-  <img alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=Freexan&show_icons=true&theme=light" />
-</picture>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Freexan?cardType=level&theme=graywhite&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 🔥 Streak Stats
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Freexan&theme=graywhite" alt="GitHub Streak" /></a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=Freexan&theme=dark" />
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=Freexan&theme=light" />
-  <img alt="GitHub Streak" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Freexan&theme=light" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Freexan/Freexan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Freexan/Freexan/output/github-snake.svg" />
-  <img alt="github-snake" 
-    src="https://raw.githubusercontent.com/Freexan/Freexan/output/github-snake.svg" />
+  <source srcset="https://raw.githubusercontent.com/Freexan/Freexan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Freexan/Freexan/output/github-snake.svg" />
 </picture>
