@@ -1,7 +1,6 @@
 [![Chykalo-Oleksandr-logo.png](https://i.postimg.cc/j2jSRtQ5/Chykalo-Oleksandr-logo.png)](https://postimg.cc/8JqSH8YQ)
 
-# Hello, I'm Chykalo Oleksandr 👋
-
+## Backend Developer | Student |  Web & AI Enthusiast ⚡
 ## 📜 Table of Contents
 
 - [About Me](#about-me)
