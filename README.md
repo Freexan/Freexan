@@ -85,7 +85,3 @@ I'm Chykalo Oleksandr. As a backend developer, I'm always eager to create someth
 ## 🔥 Streak Stats
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Freexan&theme=graywhite" alt="GitHub Streak" /></a>
-<picture>
-  <source srcset="https://raw.githubusercontent.com/Freexan/Freexan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Freexan/Freexan/output/github-snake.svg" />
-</picture>
