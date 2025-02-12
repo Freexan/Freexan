@@ -86,7 +86,6 @@ I'm Chykalo Oleksandr. As a backend developer, I'm always eager to create someth
 
 [![My Streaks](https://github-readme-streak-stats.herokuapp.com?user=Freexan&theme=dark)](https://github.com/Freexan)
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Freexan/Freexan/output/github-snake-dark.svg" />
