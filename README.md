@@ -13,13 +13,6 @@
 
 I'm Chykalo Oleksandr. As a backend developer, I'm always eager to create something new and explore innovative approaches. Currently studying at Akademia Finansów i Biznesu Vistula in Warsaw, I love collaborating on open-source projects and continually expanding my skills. In my free time, I enjoy playing chess♟️
 
-## 🌱 My Core Principles
-
-- **Genuine Strength & Patience**: True strength lies in mastering reactions. This principle guides every line of code, and every project I undertake. It reminds me to stay calm under pressure and adapt quickly to changes.
-
-- **Continuous Learning**: In the fast-paced world of technology, I believe in lifelong learning. I dedicate time to explore new tools, frameworks, and best practices, ensuring I deliver up-to-date, high-quality solutions.
-
-- **Collaborative Approach**: I find great value in working closely with colleagues, sharing knowledge, and spark new ideas. This open mindset helps me stay innovative and fosters a positive environment for team success.
 ## 🔧 Tech Stack
 
 ### 🌐 Frontend Frameworks/Libraries:
