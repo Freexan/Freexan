@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm Chykalo Oleksandr. As a backend developer, I'm always eager to create something new and explore innovative approaches. Currently studying at Akademia Finansów i Biznesu Vistula in Warsaw, I love collaborating on open-source projects and continually expanding my skills. In my free time, I enjoy playing chess♟️
+I'm Chykalo Oleksandr, a backend developer passionate about building new things and exploring innovative approaches. Currently, I'm studying at Akademia Finansów i Biznesu Vistula in Warsaw. In my free time, I enjoy playing chess♟️. I strive to be a "lazy" programmer
 
 ## 🔧 Tech Stack
 
