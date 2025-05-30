@@ -64,6 +64,10 @@ I'm Chykalo Oleksandr, a backend developer passionate about building new things 
 
 ✉️ Email me: [chykaloalex@gmail.com](chykaloalex@gmail.com)
 
+## 🥷 LeetCode Stats
+
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Freexan?theme=light&font=Alata&ext=heatmap)
 
 
 ## 👨‍💻 Most Used Languages
