@@ -38,16 +38,13 @@ Outside of code, I unwind over a game of chess ♟️
 
 ✉️ Email me: [chykaloalex@gmail.com](chykaloalex@gmail.com)
 
-
 ## 👨‍💻 Most Used Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&theme=graywhite)](https://github.com/Freexan)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&theme=merko&border_color=00FF41&border_radius=10)](https://github.com/Freexan)
 
 ## 📊 GitHub Stats
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Freexan?cardType=level&theme=graywhite&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Freexan?cardType=level&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 🔥 Streak Stats
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Freexan&theme=graywhite" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Freexan&theme=merko&border=00FF41&border_radius=10" alt="GitHub Streak" />
+</a>
