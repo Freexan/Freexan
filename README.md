@@ -1,6 +1,5 @@
 <!-- [![Chykalo-Oleksandr-logo.png](https://i.postimg.cc/j2jSRtQ5/Chykalo-Oleksandr-logo.png)](https://postimg.cc/8JqSH8YQ) -->
-<img src="https://raw.githubusercontent.com/Freexan/Freexan/refs/heads/main/assets/Freexan-profile-banner.svg" width="100%" />
-
+<img src="https://raw.githubusercontent.com/Freexan/Freexan/main/assets/Freexan-profile-banner.svg" width="100%" />
 
 ## Backend Developer | Student |  Web & AI Enthusiast ⚡
 ## 📜 Table of Contents
