@@ -20,6 +20,11 @@
 - [Contact Me](#contact-me)
 - [GitHub Stats](#github-stats)
 
+
+<div align="center">
+  <img src="https://github.com/itsdakshjain/itsdakshjain/blob/output/github-snake-dark_3.svg" alt="Snake Animation" />
+</div>
+
 ## 🧑‍💻 About Me
 
 I'm Oleksandr Chykalo, a backend developer with a passion for building things from scratch and understanding how they work under the hood.
