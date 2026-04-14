@@ -1,7 +1,17 @@
 <!-- [![Chykalo-Oleksandr-logo.png](https://i.postimg.cc/j2jSRtQ5/Chykalo-Oleksandr-logo.png)](https://postimg.cc/8JqSH8YQ) -->
 <img src="https://raw.githubusercontent.com/Freexan/Freexan/refs/heads/main/assets/Freexan-profile-banner.svg" width="100%" />
 
-## Backend Developer | Student |  Web & AI Enthusiast ⚡
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=79DAFA&center=true&vCenter=true&width=620&lines=Hi,+I'm+Oleksandr!+👋;Building+things+from+scratch;Exploring+Software+Architecture;Based+in+Warsaw,+Poland+🇵🇱;Chess+Player+♟️;Always+learning,+always+building" alt="Typing SVG" />
+
+  <p>
+    <a href="https://t.me/oleksandrchykalo"><b>✈️ Telegram</b></a> •
+    <a href="https://www.linkedin.com/in/oleksandr-chykalo-7326ba313/"><b>👔 LinkedIn</b></a> •
+    <a href="https://github.com/Freexan"><b>🐙 GitHub</b></a> •
+    <a href="mailto:chykaloalex@gmail.com"><b>✉️ Email</b></a>
+  </p>
+</div>
+
 ## 📜 Table of Contents
 
 - [About Me](#about-me)
@@ -31,12 +41,6 @@ Outside of code, I unwind over a game of chess ♟️
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
-## 📫 Contact Me
-
-[![Telegram](https://img.shields.io/badge/-Telegram-020F0D?style=for-the-badge&logo=telegram&logoColor=26A2E0)](https://t.me/oleksandrchykalo)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-020F0D?style=for-the-badge&logo=Linkedin&logoColor=0077B7)](https://www.linkedin.com/in/oleksandr-chykalo-7326ba313/)
-
-✉️ Email me: [chykaloalex@gmail.com](chykaloalex@gmail.com)
 
 ## 👨‍💻 Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&theme=merko&border_color=00FF41&border_radius=10)](https://github.com/Freexan)
