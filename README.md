@@ -11,11 +11,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm Oleksandr Chykalo, a backend developer...
+I'm Oleksandr Chykalo, a backend developer with a passion for building things from scratch and understanding how they work under the hood.
 
 I'm currently studying at Akademia Finansów i Biznesu Vistula in Warsaw.
 
-Right now I'm deep into software architecture...
+Right now I'm deep into software architecture — exploring how real-world applications are designed, what principles drive their structure, and how to make systems that are not just functional, but well thought-out from the ground up.
 
 Outside of code, I unwind over a game of chess ♟️
 
@@ -69,11 +69,6 @@ Outside of code, I unwind over a game of chess ♟️
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-020F0D?style=for-the-badge&logo=Linkedin&logoColor=0077B7)](https://www.linkedin.com/in/oleksandr-chykalo-7326ba313/)
 
 ✉️ Email me: [chykaloalex@gmail.com](chykaloalex@gmail.com)
-
-## 🥷 LeetCode Stats
-
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Freexan?theme=light&font=Alata&ext=heatmap)
 
 
 ## 👨‍💻 Most Used Languages
