@@ -11,9 +11,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm Oleksandr Chykalo, a backend developer with a passion for building things from scratch and understanding how they work under the hood. 
+I'm Oleksandr Chykalo, a backend developer...
+
 I'm currently studying at Akademia Finansów i Biznesu Vistula in Warsaw.
-Right now I'm deep into software architecture — exploring how real-world applications are designed, what principles drive their structure, and how to make systems that are not just functional, but well thought-out from the ground up.
+
+Right now I'm deep into software architecture...
+
 Outside of code, I unwind over a game of chess ♟️
 
 ## 🔧 Tech Stack
