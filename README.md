@@ -41,14 +41,15 @@ Outside of code, I unwind over a game of chess ♟️
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
-
-## 👨‍💻 Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Freexan&layout=compact&theme=merko&border_color=00FF41&border_radius=10)](https://github.com/Freexan)
-
-## 📊 GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Freexan?cardType=level&theme=merko&preferLogin=false)](https://git.io/awesome-stats-card)
-
-## 🔥 Streak Stats
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Freexan&theme=merko&border=00FF41&border_radius=10" alt="GitHub Streak" />
-</a>
+<table border="0" align="center">
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://git.io/awesome-stats-card">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Freexan?cardType=level&theme=tokyonight&preferLogin=false" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="55%" valign="top" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Freexan&theme=tokyonight&border=79DAFA&border_radius=10" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
