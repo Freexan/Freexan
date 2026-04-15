@@ -1,8 +1,8 @@
 <!-- [![Chykalo-Oleksandr-logo.png](https://i.postimg.cc/j2jSRtQ5/Chykalo-Oleksandr-logo.png)](https://postimg.cc/8JqSH8YQ) -->
-<img src="https://raw.githubusercontent.com/Freexan/Freexan/refs/heads/main/assets/Freexan-profile-banner.svg" width="100%" />
+<img src="/assets/Freexan-profile-banner.svg" width="100%" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=79DAFA&center=true&vCenter=true&width=620&lines=Hi,+I'm+Oleksandr!+👋;Building+things+from+scratch;Exploring+Software+Architecture;Based+in+Warsaw,+Poland+🇵🇱;Chess+Player+♟️;Always+learning,+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=79DAFA&center=true&vCenter=true&width=620&lines=Hi,+I'm+Oleksandr!+👋;Building+things+from+zero;Exploring+Software+Architecture;Based+in+Warsaw,+Poland+🇵🇱;Chess+Player+♟️;" alt="Typing SVG" />
 
   <p>
     <a href="https://t.me/oleksandrchykalo"><b>✈️ Telegram</b></a> •
@@ -17,8 +17,6 @@
 - [About Me](#about-me)
 - [My Core Principles](#my-core-principles)
 - [Tech Stack](#tech-stack)
-- [Contact Me](#contact-me)
-- [GitHub Stats](#github-stats)
 
 
 <div align="center">
@@ -27,11 +25,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm Oleksandr Chykalo, a backend developer with a passion for building things from scratch and understanding how they work under the hood.
+I'm Oleksandr Chykalo, a backend developer with a passion for building things from zero and understanding how they work under the hood.
 
 I'm currently studying at Akademia Finansów i Biznesu Vistula in Warsaw.
 
-Right now I'm deep into software architecture — exploring how real-world applications are designed, what principles drive their structure, and how to make systems that are not just functional, but well thought-out from the ground up.
+Right now I'm deep into DDD software architecture — exploring how real-world applications are designed, what principles drive their structure, and how to make systems that are not just functional, but well thought-out from the ground up.
 
 Outside of code, I unwind over a game of chess ♟️
 
